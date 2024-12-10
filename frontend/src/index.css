@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Passions Conflict";
+}
+.passions-conflict-regular {
+  font-family: "Passions Conflict", cursive;
+  font-style: normal;
+}
